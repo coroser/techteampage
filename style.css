@@ -38,6 +38,11 @@ h1{
 }
 .ggchild2{
     width: 60%;
+    
+    margin-right: 4%;
+    border-width:  0px 0px 2px 0px;
+    border-style: solid;
+    border-color: white;
 
 }
 .ggchild1 img{
@@ -100,5 +105,11 @@ a:hover{
 h2{
     text-align: center;
     color: white;
+    
+}
+.bi1{
+    border-width:  0px 0px 2px 0px;
+    border-style: solid;
+    border-color: white;
     
 }
